@@ -10,3 +10,5 @@
 ![image](https://github.com/user-attachments/assets/31f890fe-31d2-4d83-a18f-ac35810acd14)<br>
 
 ## 3. Membuat Form dan Menampilkan Hasil Inputan<br>
+![image](https://github.com/user-attachments/assets/3cb68a74-7b81-4de5-a4d3-fe4e690e6830)
+![image](https://github.com/user-attachments/assets/63644b48-e8ef-46b5-b07d-aa785020ea1f)
